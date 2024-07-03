@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DailyDigest/static/css/main.31d6cfe0.css",
+    "main.js": "/DailyDigest/static/js/main.3c139d99.js",
+    "static/media/globeframe.gif": "/DailyDigest/static/media/globeframe.6abf68adc571d49ad747.gif",
+    "index.html": "/DailyDigest/index.html",
+    "main.3c139d99.js.map": "/DailyDigest/static/js/main.3c139d99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3c139d99.js"
+  ]
+}
