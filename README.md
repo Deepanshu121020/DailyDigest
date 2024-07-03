@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# DailyDigest
+DailyDigest is a user-friendly web application that provides daily news summaries from various sources. The app is built using React, offering a seamless and interactive experience. With DailyDigest, users can quickly catch up on important news without having to browse through multiple websites.
+>>>>>>> b32ca7a412a24724019f5205d8389581c3005b31
